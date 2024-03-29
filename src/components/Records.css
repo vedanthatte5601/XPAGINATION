@@ -1,0 +1,16 @@
+th{
+    padding :  8px 130px;
+    background-color: #009879;
+    margin : 0;
+    border: 0;
+    color: white;
+}
+
+td{
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: gray;
+    font-size: small;
+    border: gray;
+}

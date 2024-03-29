@@ -1,0 +1,16 @@
+button{
+    padding: 8px;
+    margin-left: 10px;
+    background-color: #009879;
+    border: none;
+    color: white;
+    border-radius:  3px;
+    font-size: xx-small;
+}
+nav{
+    padding-top: 50px;
+}
+
+.PageNumber{
+    padding: 15px;
+}
